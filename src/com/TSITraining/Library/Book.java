@@ -11,8 +11,6 @@ public class Book extends Literature implements Borrow{
 
     ///////////////////////////Constructor\\\\\\\\\\\\\\\\\
 
-    public Book(String title) {super (title); }
-
     public Book(String title,String chapters, String author, String coverType, String writingStyle) {
     this.title= title;
     this.chapters = chapters;
