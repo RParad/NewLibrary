@@ -1,6 +1,7 @@
 package com.TSITraining.Library;
 
 public class DVD extends Multimedia{
+
     /////////////////////////Attributes\\\\\\\\\\\\\\\\\\\\
 
 
@@ -26,7 +27,20 @@ public class DVD extends Multimedia{
 
 
     /////////////////////////Method\\\\\\\\\\\\\\\\\\\\\\\\
+    @Override
+    public void borrowTime(int days) {
 
+    }
+
+    @Override
+    public void education(String knowledge) {
+
+    }
+
+    @Override
+    public void engagement() {
+
+    }
 
 
 

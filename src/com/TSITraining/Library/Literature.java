@@ -7,20 +7,7 @@ public abstract class Literature extends LibraryItems{
 
 
 
-
-
-
-
-
-
-
-
     ///////////////////////////Constructor\\\\\\\\\\\\\\\\\
-
-
-
-
-
 
 
 

@@ -40,13 +40,15 @@ public abstract class LibraryItems {
 
     //Getters
     public String getTitle() {
+        String title = this.title;
         return title;
+
     }
 
     public int getDate() {
+        int date = this.date;
         return date;
     }
-
 
 
     //Setters

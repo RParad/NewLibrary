@@ -1,6 +1,7 @@
 package com.TSITraining.Library;
 
 public class Newspaper extends Literature{
+
     /////////////////////////Attributes\\\\\\\\\\\\\\\\\\\\
 
 
@@ -26,7 +27,15 @@ public class Newspaper extends Literature{
 
 
     /////////////////////////Method\\\\\\\\\\\\\\\\\\\\\\\\
+    @Override
+    public void borrowTime(int days) {
 
+    }
+
+    @Override
+    public void education(String knowledge) {
+
+    }
 
 
 
